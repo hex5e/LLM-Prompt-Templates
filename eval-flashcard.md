@@ -11,3 +11,7 @@ These are the qualities of a good flashcard
 - Recall-based: Front/question is answerable from memory, not just recognition.
 - Compact: Back/answer is short, should usually be a couple words, and only rarely one short sentence.
 - Meaningful: worth remembering. 
+
+If there are any updates you'd like to make please provide that at the end of your response formatted as:
+front: ...
+back: ...
