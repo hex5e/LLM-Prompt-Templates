@@ -1,4 +1,7 @@
-Make 30 flashcards about [X].
+N = _
+X = _
+
+Make [N] flashcards about [X].
 
 A flashcard is formatted with a Front, which is a question, and a Back, which is the answer
 
